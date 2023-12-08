@@ -1,7 +1,7 @@
 # Google-Advanced-Data-Analytics
 Google Advanced Data Analytics Professional Certificate - Statistical Analysis, Python, Regression Models, and Machine Learning.
 
-Course 01 - Foundations of Data Science (There is no code in this course)
+Course 01 - Foundations of Data Science (there is no code in this course)
 
 Course 02 - Get Started with Python
 
